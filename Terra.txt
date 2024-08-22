@@ -1,1 +1,1 @@
-terraform init - initialize the terraform registry
+terraform init - initialize the terraform registry.
